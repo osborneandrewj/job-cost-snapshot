@@ -1,0 +1,20 @@
+cat <<EOF > .gitignore
+# Python
+*.pyc
+__pycache__/
+
+# MacOS system files
+.DS_Store
+
+# SQLite
+*.db
+
+# CSV exports
+*.csv
+
+# VS Code settings (optional)
+.vscode/
+
+# Virtual environments
+venv/
+EOF
