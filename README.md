@@ -41,7 +41,7 @@ commitments – Planned spend by project/vendor/code
 
 ---
 
-## 🚀 How to Run It
+## How to Run It
 
 1. Install requirements:
 
